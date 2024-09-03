@@ -1,0 +1,17 @@
+/* .logo img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+} */
+
+.logo {
+  gap: 0.1rem;
+}
+
+.logo--text {
+  font-size: 0.8rem;
+}
+
+.navbar-brand {
+  margin-right: 7rem;
+}
